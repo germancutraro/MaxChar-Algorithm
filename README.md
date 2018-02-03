@@ -1,4 +1,4 @@
-# MaxChar algorithm 
+# MaxChar Algorithm 
 
 💡 MaxChar algorithm resolved in JavaScript
 
